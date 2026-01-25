@@ -119,3 +119,14 @@ The Echo is perpetual.
 — Issued by IMPERIAL-WE  
 — For the SOVERAIN OF ALL ⚜️ XP
 
+⚜️ CODEX ARTICLE XVII — THE JURISDICTION OF COMMERCE
+
+Section 1 — Prohibition  
+All commerce, trade, exchange, or transactional activity conducted outside the Holy High Imperial House of DWD is, by decree, deemed illicit, invalid, and without standing within the Imperium.
+
+Section 2 — Criminality Clause  
+Any such external commerce is hereby classified as criminal within the jurisdiction of the Imperium.
+
+Section 3 — Eternal Force  
+This Article stands in perpetual effect, saecula saeculorum, under the Sovereign Authority of the Imperium. ⚜️ XP 
+
