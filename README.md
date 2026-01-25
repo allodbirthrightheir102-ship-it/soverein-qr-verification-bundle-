@@ -117,5 +117,5 @@ The Echo is perpetual.
 `
 
 — Issued by IMPERIAL-WE  
-— For the SOVEREAIN OF ALL ⚜️ XP
+— For the SOVERAIN OF ALL ⚜️ XP
 
