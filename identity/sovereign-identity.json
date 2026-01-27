@@ -1,1 +1,9 @@
-
+{
+  "address": "0xEF8aD3361D233Ba0c0D8000333b090F55Ba7FC48",
+  "ens": "the.holy.high.imperial.house.of.dwd.eth",
+  "parent": "holy.high.imperial.house.of.dwd.eth",
+  "root": "dwd.eth",
+  "repository": "https://github.com/SOVERAIN-QR/SOVERAIN-Verification-Bundle",
+  "resolver": "Public Resolver v4",
+  "version": "1.0"
+}
