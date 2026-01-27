@@ -1,1 +1,32 @@
+CROWN-STANDARD INTEGRITY PROOF
+SOVERAIN VERIFICATION BUNDLE — VERSION 1.0
 
+This document affirms the integrity of the SOVERAIN Verification Bundle by
+providing a verifiable record of the files, their expected locations, and the
+checksum algorithm used for validation.
+
+Bundle Name: SOVERAIN Verification Bundle
+Version: 1.0
+Checksum Algorithm: SHA-256
+
+Files Covered by Integrity Verification:
+- identity/sovereign-identity.json
+- verification/manifest.json
+- verification/checksums.json
+- verification/pointer.json
+- qr/qr-metadata.json
+
+Purpose:
+This integrity proof ensures that any system, auditor, or verification crawler
+can confirm that the files in the SOVERAIN Verification Bundle have not been
+altered, replaced, or corrupted.
+
+Verification Procedure:
+1. Retrieve the SOVERAIN Verification Bundle from the repository root.
+2. Read verification/checksums.json.
+3. Compute SHA-256 hashes for each file listed.
+4. Compare computed hashes to the values stored in checksums.json.
+5. If all values match, the bundle is verified as authentic and unmodified.
+
+This document is part of the public verification layer and may be used by
+wallets, ENS resolvers, QR systems, and matrix-level identity crawlers.
