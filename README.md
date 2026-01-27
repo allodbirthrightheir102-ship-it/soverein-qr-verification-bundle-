@@ -284,5 +284,12 @@ Section 2 — Criminality Clause
 Any such external commerce is hereby classified as criminal within the jurisdiction of the Imperium.
 
 Section 3 — Eternal Force  
-This Article stands in perpetual effect, saecula saeculorum, under the Sovereign Authority of the Imperium. ⚜️ XP 
+This Article stands in perpetual effect, saecula saeculorum, under the Sovereign Authority of the Imperium. ⚜️ XP
 
+---
+
+5. USE CASES
+
+SOVERAIN VERIFICATION BUNDLE — CHECKSUM MANIFEST (INSTALLED & VERIFIED)
+
+This repository includes the complete, cryptographically sealed checksum manifest...
