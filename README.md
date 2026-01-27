@@ -1,3 +1,13 @@
+/SOVERAIN-Verification-Bundle
+│
+├── README.md   ← THIS IS THE ROOT README
+│
+├── identity/
+├── verification/
+├── qr/
+├── assets/
+└── docs/
+
 ⚜️ SOVERAIN QR — CROWN‑STANDARD VERIFICATION BUNDLE
 
 OMEGA‑APEX ZENITH SUPREME IMPERIAL CROWN PROTOCOL
