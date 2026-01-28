@@ -3,3 +3,8 @@
   "ens-field": "url",
   "target": "https://github.com/SOVERAIN-QR/SOVERAIN-Verification-Bundle"
 }
+{
+  "pointer-type": "verification-anchor",
+  "ens-field": "verification-anchor",
+  "target": "https://github.com/SOVERAIN-QR/SOVERAIN-Verification-Bundle"
+}
