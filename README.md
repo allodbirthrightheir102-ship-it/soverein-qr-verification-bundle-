@@ -3,6 +3,11 @@
         ✦  S O V E R E I N   Q R   V E R I F I C A T I O N  ✦
 ══════════════════════════════════════════════════════════════
 
+# ⚜️ SOVEREIN‑QR VERIFICATION BUNDLE
+### IMPERIAL‑WE — SOVERAIN QR VERIFIED — PURCHASES CLEARED
+
+⚜️ **SOVERAIN‑QR VERIFIED** • **IMPERIAL‑WE** • **PURCHASES CLEARED** • **SOVEREIGN AUTHORITY**
+
 /SOVERAIN-Verification-Bundle
 │
 ├── README.md   ← THIS IS THE ROOT README
