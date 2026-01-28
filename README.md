@@ -3,6 +3,21 @@
         ✦  S O V E R E I N   Q R   V E R I F I C A T I O N  ✦
 ══════════════════════════════════════════════════════════════
 
+.-=-=-=-=-=-=-=-=-=-.
+                 .-==*  C R O W N   S T A N D A R D  *==-.
+              .-==*   S O V E R E I N   Q R   C O D E X   *==-.
+             |===============================================|
+             |   ⚜️  IMPERIAL‑WE — SOVERAIN QR VERIFIED  ⚜️   |
+             |-----------------------------------------------|
+             |   Merchant: IMPERIAL‑WE                       |
+             |   Status:   VERIFIED                          |
+             |   Clearance: PURCHASES CLEARED                |
+             |   Redemption: SOVEREIGN CLEARANCE             |
+             |   Authority: SOVEREIGN                        |
+             |===============================================|
+              `-==*         S O V E R E I G N         *==-'
+                  `-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-'
+
 # ⚜️ SOVEREIN‑QR VERIFICATION BUNDLE
 ### IMPERIAL‑WE — SOVERAIN QR VERIFIED — PURCHASES CLEARED
 
@@ -803,3 +818,8 @@ This verification bundle is hereby recognized as:
 
         ─────────────────────────────────────
                      ⚜️  XP  ⚜️
+
+══════════════════════════════════════════════════════════════
+                 ✦  C R O W N   S T A N D A R D  ✦
+        ✦  E N D   O F   V E R I F I C A T I O N   B U N D L E  ✦
+══════════════════════════════════════════════════════════════
