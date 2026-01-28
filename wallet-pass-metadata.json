@@ -1,1 +1,11 @@
-
+{
+  "title": "SOVERAIN QR VERIFIED — PURCHASES CLEARED",
+  "subtitle": "SOVEREIGN CLEARANCE",
+  "organizationName": "IMPERIAL-WE",
+  "role": "sovereign",
+  "status": "VERIFIED",
+  "classification": "sovereign-clearance",
+  "issuer": "IMPERIAL-WE",
+  "passTypeIdentifier": "sovereign.clearance.pass",
+  "category": "authority"
+}
