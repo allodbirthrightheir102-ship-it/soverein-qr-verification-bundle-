@@ -1,1 +1,8 @@
-
+"files": [
+  "identity/sovereign-identity.json",
+  "verification/manifest.json",
+  "verification/checksums.json",
+  "verification/pointer.json",
+  "qr/qr-metadata.json",
+  "qr/wallet-pass-metadata.json"
+]
