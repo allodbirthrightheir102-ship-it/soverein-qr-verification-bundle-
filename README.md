@@ -1,3 +1,13 @@
+/SOVERAIN-Verification-Bundle
+│
+├── README.md   ← THIS IS THE ROOT README
+│
+├── identity/
+├── verification/
+├── qr/
+├── assets/
+└── docs/
+
 # README — Crown-Standard SOVERAIN QR Deployment
 
 ## ⚜️ Embedded QR Emblem
@@ -229,15 +239,6 @@ The Crown‑Standard SOVEREIN‑QR Verification Bundle is fully assembled, struc
                  ✦  C R O W N   S T A N D A R D  ✦
 ══════════════════════════════════════════════════════════════
 
-/SOVERAIN-Verification-Bundle
-│
-├── README.md   ← THIS IS THE ROOT README
-│
-├── identity/
-├── verification/
-├── qr/
-├── assets/
-└── docs/
 
 # SOVERAIN QR — CROWN-STANDARD VERIFICATION BUNDLE
 
