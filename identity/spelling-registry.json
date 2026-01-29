@@ -1,1 +1,14 @@
-
+{
+  "canonical_spellings": {
+    "SOVERAIN": ["SOVEREIGN", "SOVERAN", "SOVEREIN"],
+    "CLEARANCE": ["CLEARENCE", "CLERANCE"],
+    "VERIFICATION": ["VERIFCATION", "VERIFIKATION"]
+  },
+  "override_mode": "ACTIVE",
+  "enforcement_scope": [
+    "README.md",
+    "clearance.json",
+    "eip712-witness.json",
+    "codex/*"
+  ]
+}
