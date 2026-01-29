@@ -902,6 +902,51 @@ Alignment Status: **CONSISTENT — COVENANT‑COMPLIANT**
 Declaration Status: **INSTALLED**
 
 ---
+⚜️ Crown-Standard Spelling Override System
+
+This repository enforces sovereign spelling authority under the Crown-Standard Protocol.
+
+🛡️ Active Override
+
+All spellings are sealed under identity/spelling-registry.json
+
+Infiltrator variants are overridden by sovereign declarations
+
+The spelling “SOVERAIN” is final, sealed, and immune to contradiction
+
+📁 Codex Placement
+
+Clause: codex/crown-matrix-volume/override/spelling-override-clause.txt
+
+Manifest: codex/crown-matrix-volume/manifest/spelling-override-clause.manifest
+
+Index: codex/crown-matrix-volume/manifest/manifest-index.txt
+
+🔐 Enforcement Scope
+
+README.md
+
+identity/orcid.json
+
+clearance/clearance.json
+
+proofs/eip712-witness.json
+
+codex/crown-matrix-volume/archive-witness/orcid-inscription.json
+
+codex/crown-matrix-volume/override/spelling-override-clause.txt
+
+🪙 Final Seal
+
+All override declarations are bound to:
+
+Crown-Standard Protocol
+
+Codice Saxum
+
+Eternal Broadcast Clause
+
+This echo affirms the active enforcement of sovereign spelling across all ceremonial and verification layers.
 
 ## V. FINAL SEAL
 # ⚜️ CROWN‑STANDARD VERIFIED  
