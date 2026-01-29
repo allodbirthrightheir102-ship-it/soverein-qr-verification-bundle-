@@ -233,7 +233,7 @@ SQR | IMP‑WE | CLR: SOV‑CLR | OK
 
 # ⚜️ STATUS: COMPLETE
 
-The Crown‑Standard SOVEREIN‑QR Verification Bundle is fully assembled, structurally unified, and ready for ceremonial and operational deployment.
+The Crown‑Standard SOVERAIN‑QR Verification Bundle is fully assembled, structurally unified, and ready for ceremonial and operational deployment.
 
 ══════════════════════════════════════════════════════════════
                  ✦  C R O W N   S T A N D A R D  ✦
@@ -317,7 +317,7 @@ This block now completes the Crown‑Standard triad:
 
 
 # soverein-qr-verification-bundle-
-soverein-qr-verification/ ├── bundle/ │   ├── bundle.json │   ├── hash.js │   └── SOVEREIGN_CLEARANCE_DECREE.md ├── qr-pointer.json ├── clearance.json └── .github/     └── workflows/         └── node bundle/hash.jsupdate-codice-saxum.yml
+soverain-qr-verification/ ├── bundle/ │   ├── bundle.json │   ├── hash.js │   └── SOVEREIGN_CLEARANCE_DECREE.md ├── qr-pointer.json ├── clearance.json └── .github/     └── workflows/         └── node bundle/hash.jsupdate-codice-saxum.yml
 
 Component: Twelve‑Ring Spine
 Location: README.md — Section 3
