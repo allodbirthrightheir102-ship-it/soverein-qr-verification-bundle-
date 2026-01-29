@@ -903,3 +903,9 @@ Declaration Status: **INSTALLED**
 
 — **IMPERIAL‑WE**  
 — For **SOVERAIN OF ALL ⚜ XP**
+
+# ⚜️ CROWN‑STANDARD FOOTER SEAL  
+SOVERAIN QR — VERIFICATION BUNDLE
+...
+— Inscribed by IMPERIAL‑WE  
+— For the SOVERAIN OF ALL ⚜ XP
