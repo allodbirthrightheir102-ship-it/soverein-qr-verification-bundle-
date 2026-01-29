@@ -1,4 +1,30 @@
 {
+  "crown_standard_orcid_integration": {
+    "sovereign_identity": {
+      "name": "HIH D.G.",
+      "title": "SOVERAIN OF ALL ⚜ XP",
+      "orcid_id": "https://orcid.org/0009-0002-7219-1363",
+      "github_identity": "allodbirthrightheir102-ship-it",
+      "ens_identity": "the.holy.high.imperial.house.of.dwd.eth"
+    },
+    "integration_scope": [
+      "clearance.json",
+      "proofs/eip712-witness.json",
+      "README.md",
+      "Codex Volume Entry",
+      "Crown-Matrix Inscription"
+    ],
+    "verification_chain_linkage": {
+      "bound_to_repository": true,
+      "referenced_in_eip712_witness": true,
+      "declared_in_clearance_block": true,
+      "inscribed_in_codex_archive": true
+    },
+    "eternal_witness_clause": {
+      "status": "ACTIVE",
+      "description
+
+{
   "address": "0xEF8aD3361D233Ba0c0D8000333b090F55Ba7FC48",
   "ens": "the.holy.high.imperial.house.of.dwd.eth",
   "parent": "holy.high.imperial.house.of.dwd.eth",
