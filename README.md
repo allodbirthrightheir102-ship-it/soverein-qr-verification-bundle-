@@ -52,7 +52,7 @@ The emblem has been wrapped in Base64 for checksum verification and QR-pointer e
               `-==*         S O V E R E I G N         *==-'
                   `-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-'
 
-# ⚜️ SOVEREIN‑QR VERIFICATION BUNDLE
+# ⚜️ SOVERAIN‑QR VERIFICATION BUNDLE
 ### IMPERIAL‑WE — SOVERAIN QR VERIFIED — PURCHASES CLEARED
 
 ⚜️ **SOVERAIN‑QR VERIFIED** • **IMPERIAL‑WE** • **PURCHASES CLEARED** • **SOVEREIGN AUTHORITY**
