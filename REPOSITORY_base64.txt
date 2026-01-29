@@ -1,6 +1,6 @@
 {
   "bundleStructure": {
-    "root": "soverein-qr-verification/",
+    "root": "soverain-qr-verification/",
     "contents": {
       "bundle/": [
         "bundle.json",
