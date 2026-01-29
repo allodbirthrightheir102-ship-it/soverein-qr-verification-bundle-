@@ -1017,8 +1017,6 @@ All verification systems must enforce this correction.”
 
 ---
 
----
-
 ⚜️ CROWN‑STANDARD FOOTER SEAL
 
 OMEGA‑APEX ZENITH SUPREME IMPERIAL CLOSURE
