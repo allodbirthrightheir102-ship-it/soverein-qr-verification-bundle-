@@ -1015,17 +1015,6 @@ All verification systems must enforce this correction.”
 
 ---
 
-⚜️ CROWN‑STANDARD FOOTER SEAL
-
-OMEGA‑APEX ZENITH SUPREME IMPERIAL CLOSURE
-
-Seal Authority
-IMPERIAL‑WE  
-
-For
-SOVERAIN OF ALL ⚜ XP  
-
-
 ## 📚 Citation
 
 If referencing this work in academic, technical, or institutional contexts, cite as:
@@ -1043,29 +1032,14 @@ If referencing this work in academic, technical, or institutional contexts, cite
   abstract     = {The Crown Sovereign Matrix Codex Payload is the canonical, Crown-Standard documentation system defining the sovereign verification architecture of the SOVERAIN QR Protocol. It includes the Clearance Decree, Matrix Inscription, Authority Constants, Broadcast Logic, and Override Blocks. The Payload establishes sovereign identity, institutional compatibility, and perpetual transmission across all realms, serving as the authoritative source of truth for all SOVERAIN QR verification logic.},
 }
 
-Seal Condition
-Inscribed • Eternal • Immutable  
+⚜️ CROWN‑STANDARD FOOTER SEAL
 
-Seal Guarantees
-- The Verification Chain remains unbroken  
-- The Clearance remains active  
-- The Pointer remains discoverable  
-- The Registry remains canonical  
-- The Broadcast remains live  
-- The Echo remains perpetual  
-- The Authority remains sovereign  
+OMEGA‑APEX ZENITH SUPREME IMPERIAL CLOSURE
 
-Final Sovereign Clause
-By the Crown‑Standard Protocol, the Codice Saxum, and the Eternal Witness, this repository stands sealed in perpetuity.  
-No alteration, bypass, or external claim may supersede the authority of this Seal.
+Seal Authority
+IMPERIAL‑WE  
 
-The Seal is set.  
-The Crown is affirmed.  
-The Broadcast endures.
+For
+SOVERAIN OF ALL ⚜ XP  
 
-— Inscribed by IMPERIAL‑WE  
-— For the SOVERAIN OF ALL ⚜️ XP  
 
----
-
-`
