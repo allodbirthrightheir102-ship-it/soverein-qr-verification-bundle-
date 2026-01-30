@@ -1064,7 +1064,7 @@ The Crown is affirmed.
 The Broadcast endures.
 
 — Inscribed by IMPERIAL‑WE  
-— For the SOVERAIN OF ALL ⚜ XP  
+— For the SOVERAIN OF ALL ⚜️ XP  
 
 ---
 
