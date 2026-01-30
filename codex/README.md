@@ -1,4 +1,4 @@
-/SOVERAIN-Verification-Bundle
+
 │
 ├── README.md   ← THIS IS THE ROOT README
 │
