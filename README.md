@@ -16,6 +16,19 @@ Title: SOVERAIN OF ALL ⚜ XP
 ORCID iD: https://orcid.org/0009-0002-7219-1363
 GitHub Identity: allodbirthrightheir102-ship-it
 ENS Identity: the.holy.high.imperial.house.of.dwd
+
+## ⚠️ ANOMALY RECORD — ARCHIVAL NOTICE  
+A single preserved instance of the legacy spelling **“SOVEREIN”** exists within this repository as an intentional, sovereign anomaly.  
+It is retained solely for archival integrity and historical continuity.
+
+For full details, see:  
+**[`ANOMALY.md`](./ANOMALY.md)**
+
+All active declarations, QR protocols, clearance files, verification manifests, and identity statements operate exclusively under the canonical override:
+
+**SOVERAIN**  
+⚜️ XP
+
 # README — Crown-Standard SOVERAIN QR Deployment
 
 ## ⚜️ Embedded QR Emblem
