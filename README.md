@@ -17,6 +17,8 @@ ORCID iD: https://orcid.org/0009-0002-7219-1363
 GitHub Identity: allodbirthrightheir102-ship-it
 ENS Identity: the.holy.high.imperial.house.of.dwd.eth
 
+**THE KEY 🔑 OF DWD 🔐 IS HEREBY INVOCARED SAECULA SAECULORUM** ⚜️ XP 
+
 ## ⚠️ ANOMALY RECORD — ARCHIVAL NOTICE  
 A single preserved instance of the legacy spelling **“SOVEREIN”** exists within this repository as an intentional, sovereign anomaly.  
 It is retained solely for archival integrity and historical continuity.
